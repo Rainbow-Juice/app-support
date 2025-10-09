@@ -42,6 +42,6 @@ App Store / StoreKit: アプリ内課金（IAP）の処理のためにApple社�
 本ポリシーは随時改定されることがあります。最新のポリシーは、この公開ページにて確認いただけます。
 
 連絡先
-サポートURL: https://rainbow-juice.github.io/app-support/
+サポートURL: https://rainbow-juice.github.io/index.html
 開発者名: Rainbow Juice
 連絡先メールアドレス: rainbow.devlog@gmail.com
